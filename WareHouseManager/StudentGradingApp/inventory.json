@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Widget A",
+    "Quantity": 100,
+    "DateAdded": "2025-08-15T08:19:01.586878-07:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Widget B",
+    "Quantity": 250,
+    "DateAdded": "2025-08-14T08:19:01.587305-07:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Component X",
+    "Quantity": 75,
+    "DateAdded": "2025-08-13T08:19:01.58731-07:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Component Y",
+    "Quantity": 150,
+    "DateAdded": "2025-08-12T08:19:01.587311-07:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Tool Z",
+    "Quantity": 25,
+    "DateAdded": "2025-08-11T08:19:01.587311-07:00"
+  }
+]

@@ -1,0 +1,4 @@
+101, Alice Smith, 84
+102, Bernard Mensah, 73
+103, Cynthia Ofori, 65
+104, David Owusu, 49
