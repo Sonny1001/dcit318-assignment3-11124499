@@ -1,0 +1,4 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+Bernard Mensah (ID: 102): Score = 73, Grade = B
+Cynthia Ofori (ID: 103): Score = 65, Grade = C
+David Owusu (ID: 104): Score = 49, Grade = F
