@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Monitor",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T00:00:00-07:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Notebook",
+    "Quantity": 150,
+    "DateAdded": "2025-08-12T00:00:00-07:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Office Chair",
+    "Quantity": 25,
+    "DateAdded": "2025-08-05T00:00:00-07:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Table",
+    "Quantity": 30,
+    "DateAdded": "2025-08-15T00:00:00-07:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Printer",
+    "Quantity": 5,
+    "DateAdded": "2025-08-14T00:00:00-07:00"
+  }
+]
