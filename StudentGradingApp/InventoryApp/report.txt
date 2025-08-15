@@ -1,0 +1,6 @@
+STUDENT GRADE REPORT
+===================
+
+Alice Smith (ID: 101): Score = 84, Grade = A
+Bob Jones (ID: 102): Score = 72, Grade = B
+Charlie Brown (ID: 103): Score = 58, Grade = D
