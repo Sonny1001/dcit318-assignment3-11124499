@@ -1,0 +1,15 @@
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/bin/Debug/net6.0/FinanceApp
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/bin/Debug/net6.0/FinanceApp.deps.json
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/bin/Debug/net6.0/FinanceApp.runtimeconfig.json
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/bin/Debug/net6.0/FinanceApp.dll
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/bin/Debug/net6.0/FinanceApp.pdb
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.csproj.AssemblyReference.cache
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.AssemblyInfoInputs.cache
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.AssemblyInfo.cs
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.csproj.CoreCompileInputs.cache
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.dll
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/refint/FinanceApp.dll
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.pdb
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/FinanceApp.genruntimeconfig.cache
+/Users/sonnyantwigyamerah/dcit318-assignment3-11124499/FinanceApp/obj/Debug/net6.0/ref/FinanceApp.dll
